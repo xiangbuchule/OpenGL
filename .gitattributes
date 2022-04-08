@@ -1,0 +1,26 @@
+* text=auto
+
+*.md   text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+
+*.c   text eol=lf
+*.h   text eol=lf
+*.hpp text eol=lf
+*.cpp text eol=lf
+*.def text eol=lf
+
+*.vert text eol=lf
+*.frag text eol=lf
+
+*.a   -text
+*.so  -text
+*.dll -text
+*.exe -text
+*.lib -text
+*.jpg -text
+*.png -text
+
+*.bat text eol=crlf
+
+*.sh text eol=lf

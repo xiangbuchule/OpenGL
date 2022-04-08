@@ -1,0 +1,60 @@
+{
+    "window": {
+        "__comment__": "窗口配置",
+        "title": {
+            "__comment__": "标题配置",
+            "value": "LearnOpenGL"
+        },
+        "width": {
+            "__comment__": "窗口宽",
+            "value": 800
+        },
+        "height": {
+            "__comment__": "窗口高",
+            "value": 600
+        },
+        "opacity": {
+            "__comment__": "窗口透明度",
+            "value": 1.0
+        },
+        "opacityChangeSize": {
+            "__comment__": "窗口透明度每次变化大小",
+            "value": 0.01
+        },
+        "isInLineMode": {
+            "__comment__": "是否处于线框模式",
+            "value": false
+        },
+        "isInCharInputMode": {
+            "__comment__": "是否处于文字输入模式",
+            "value": false
+        },
+        "state": {
+            "__comment__": "窗口状态(1:最小化、2:正常化、3:最大化、4:全屏化)",
+            "value": 2
+        },
+        "fullWindowAttributes": {
+            "__comment__": "全屏化窗口属性",
+            "contentXPos": {
+                "__comment__": "窗口内容的X位置",
+                "value": 0
+            },
+            "contentYPos": {
+                "__comment__": "窗口内容的Y位置",
+                "value": 0
+            },
+            "resolutionWidth": {
+                "__comment__": "全屏化窗口分辨率",
+                "value": 1920
+            },
+            "resolutionHeight": {
+                "__comment__": "全屏化窗口分辨率",
+                "value": 1080
+            },
+            "refreshRate": {
+                "__comment__": "全屏化窗口刷新率",
+                "value": 30
+            }
+        }
+    }
+}
